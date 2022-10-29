@@ -6,14 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Component Library</title>
+    <!-- one way of doing css: style tag
+    <style>
+        body{
+            color: blue;
+        }
+    </style> -->
+    <!-- Third way of including css: external link -->
+    <link href = "styles.css" rel = "stylesheet" />
 </head>
 
 <body>
-    <h1>KSJ Vardhan's Component Library</h1>
-    <p>I am attending neog.camp and currently completing levelZero</p>
+    <h1 id = "lib-header">KSJ Vardhan's Component Library</h1>
+    <!-- second way of including css by giving attributes, style = "color: blue" -->
+    <p class = "para">I am attending neog.camp and currently completing levelZero</p>
     <p>This is a component library created by me to better design each element</p>
     <p>After creating this library I am going to use the components in my <strong>portfolio, blog and all
-            projects</strong> created. This will ensure that all my projects have consistent styling.</p>
+    projects</strong> created. This will ensure that all my projects have consistent styling.</p>
 
     <hr>
 
@@ -28,7 +37,7 @@
 
     <h2>@containers</h2>
     <h3>@fluid container</h3>
-    <div>This is going to be a fluid container. It will go full width of page. With some margin</div>
+    <div class = "para">This is going to be a fluid container. It will go full width of page. With some margin</div>
     <h3>@center container</h3>
     <div>This is going to be a center container. It will go till a given width and center content.</div>
 
@@ -110,21 +119,11 @@
     <footer>
         <div>heading inside footer</div>
         <ul>
-            <li>social one</li>
-            <li>social two</li>
+    <li>social one</li>
+    <li>social two</li>
             <li>social three</li>
         </ul>
     </footer>
-
-
-
-
-
-
-
-
-
-
 
 
 </body>

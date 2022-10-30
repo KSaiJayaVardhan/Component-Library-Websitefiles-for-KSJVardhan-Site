@@ -3,6 +3,8 @@
 
 :root{
     --primary-color: #f97316;
+    --neutral-color: #404040;
+    --off-white: #f3f4f6;
 }
 
 hr{
@@ -83,4 +85,39 @@ body{
     font-weight: bold;
 }
 
+/** Header **/
 
+.hero{
+    padding: 2rem;
+    text-align: center;
+}
+
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    padding: 1rem;
+    font-size: 2rem;
+    color: var(--neutral-color);
+}
+
+.hero .hero-heading .heading-color{
+    color: var(--primary-color);
+}
+
+/** Section **/
+
+.section h1{
+    text-align: center;
+}
+
+.section{
+    padding: 2rem;
+}
+
+.ow{
+    background-color: var(--off-white);
+}

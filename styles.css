@@ -41,7 +41,6 @@ body{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    padding: 0rem 1rem;
 }
 
 .link-secondary{
@@ -122,6 +121,10 @@ body{
 
 .ow{
     background-color: var(--off-white);
+}
+
+.section .link-primary{
+    text-align: center;
 }
 
 /** footer **/

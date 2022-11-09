@@ -30,7 +30,7 @@ body{
     margin:auto;
 }
 
-.container .container-center small{
+.small{
     text-align: center;
 }
 
@@ -152,3 +152,8 @@ body{
     padding-inline-start: 0px;
 }
 
+.small{
+    max-width: 600px;
+    margin:auto;
+    text-align: center;
+}

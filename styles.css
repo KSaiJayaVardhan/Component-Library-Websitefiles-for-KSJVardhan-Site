@@ -124,7 +124,7 @@ body{
     background-color: var(--off-white);
 }
 
-.container small{
+.container .small{
     text-align: center;
 }
 

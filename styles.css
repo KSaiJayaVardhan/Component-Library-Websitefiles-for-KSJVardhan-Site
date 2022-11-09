@@ -35,7 +35,6 @@ body{
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
-    text-align: center;
 }
 
 .link-primary{
@@ -116,8 +115,10 @@ body{
     text-align: center;
 }
 
+
 .section{
     padding: 2rem;
+    text-align: center;
 }
 
 .ow{

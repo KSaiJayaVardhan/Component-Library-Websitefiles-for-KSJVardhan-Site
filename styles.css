@@ -124,9 +124,7 @@ body{
     background-color: var(--off-white);
 }
 
-.small{
-    text-align: center;
-}
+
 
 /** footer **/
 
@@ -151,5 +149,8 @@ body{
     padding-inline-start: 0px;
 }
 
+.section small{
+    text-align: center;
+}
 
 

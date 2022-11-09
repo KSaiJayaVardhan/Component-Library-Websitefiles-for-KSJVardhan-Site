@@ -124,6 +124,10 @@ body{
     background-color: var(--off-white);
 }
 
+.section small{
+    text-align: center;
+}
+
 
 /** footer **/
 

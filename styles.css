@@ -124,7 +124,7 @@ body{
     background-color: var(--off-white);
 }
 
-.section .small{
+.list-non-bullet .small{
     text-align: center;
 }
 

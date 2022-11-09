@@ -30,10 +30,6 @@ body{
     margin:auto;
 }
 
-.small{
-    text-align: center;
-}
-
 /** Links **/
 
 .link{
@@ -116,9 +112,9 @@ body{
 
 /** Section **/
 
-/**.section h1{
+.section h1{
     text-align: center;
-}**/
+}
 
 .section{
     padding: 2rem;
@@ -152,6 +148,6 @@ body{
     padding-inline-start: 0px;
 }
 
-.small{
+.section small{
     text-align: center;
 }

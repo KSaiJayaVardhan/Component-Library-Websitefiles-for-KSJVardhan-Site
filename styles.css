@@ -124,10 +124,9 @@ body{
     background-color: var(--off-white);
 }
 
-.list-non-bullet .small{
+.small{
     text-align: center;
 }
-
 
 /** footer **/
 

@@ -41,7 +41,7 @@ body{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    display: block;
+    display: inline-block;
     text-align: center;
 }
 

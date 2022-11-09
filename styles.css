@@ -34,7 +34,7 @@ body{
 
 .link{
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0rem;
     margin: auto;
     display: block;
     text-align: center;

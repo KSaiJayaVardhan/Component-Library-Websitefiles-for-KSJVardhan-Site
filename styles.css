@@ -41,7 +41,7 @@ body{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    
+    text-align: center;
 }
 
 .link-secondary{
@@ -151,3 +151,4 @@ body{
 .section small{
     text-align: center;
 }
+

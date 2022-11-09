@@ -116,9 +116,9 @@ body{
 
 /** Section **/
 
-.section h1{
+/**.section h1{
     text-align: center;
-}
+}**/
 
 .section{
     padding: 2rem;
@@ -153,7 +153,5 @@ body{
 }
 
 .small{
-    max-width: 600px;
-    margin:auto;
     text-align: center;
 }

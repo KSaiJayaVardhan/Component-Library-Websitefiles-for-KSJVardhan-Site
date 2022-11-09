@@ -35,14 +35,14 @@ body{
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
+    display: block;
+    text-align: center;
 }
 
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    display: inline-block;
-    text-align: center;
 }
 
 .link-secondary{

@@ -17,12 +17,6 @@ body{
     margin: 0px;
 }
 
-/**Small**/
-
-.container .container-center .space{
-    text-align: center;
-}
-
 /** Containers **/
 
 .container{
@@ -34,6 +28,10 @@ body{
 .container-center{
     max-width: 600px;
     margin:auto;
+}
+
+.container .container-center small{
+    text-align: center;
 }
 
 /** Links **/

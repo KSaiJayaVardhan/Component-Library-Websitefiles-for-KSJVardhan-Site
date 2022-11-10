@@ -119,15 +119,14 @@ body{
 .section{
     padding: 2rem;
     margin: auto;
+    width: 100%;
 }
 
 .ow{
     background-color: var(--off-white);
 }
 
-.end{
-    margin-block-end: 0px;
-}
+
 
 
 

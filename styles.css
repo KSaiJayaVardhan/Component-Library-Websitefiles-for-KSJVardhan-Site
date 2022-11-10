@@ -125,6 +125,10 @@ body{
     background-color: var(--off-white);
 }
 
+.end{
+    margin: 0px;
+}
+
 
 
 /** footer **/

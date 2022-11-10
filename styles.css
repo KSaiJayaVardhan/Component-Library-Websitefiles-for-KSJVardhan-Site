@@ -100,7 +100,7 @@ body{
 }
 
 .hero .hero-heading{
-    padding: 0.5rem;
+    padding: 3rem;
     font-size: 2rem;
     color: var(--neutral-color);
 }

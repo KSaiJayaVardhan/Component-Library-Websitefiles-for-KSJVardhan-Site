@@ -39,13 +39,13 @@ body{
 
 .link-primary{
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 100px;
     color: white;
 }
 
 .link-secondary{
     color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 100px;
     border: 1px solid var(--primary-color);
 }
 
@@ -100,7 +100,7 @@ body{
 }
 
 .hero .hero-heading{
-    padding: 0.5rem;
+    padding: 1rem;
     font-size: 2rem;
     color: var(--neutral-color);
 }
@@ -115,7 +115,6 @@ body{
     text-align: center;
 }
 
-
 .section{
     padding: 1rem 0rem;
     margin: auto;
@@ -124,9 +123,6 @@ body{
 .ow{
     background-color: var(--off-white);
 }
-
-
-
 
 
 /** footer **/
@@ -152,8 +148,31 @@ body{
     padding-inline-start: 0px;
 }
 
+/** Small **/
+
 .small{
     text-align: center;
 }
+
+/** Blog Header **/
+
+.hero .blog-img{
+    max-width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.hero .blog-heading{
+    padding: 0rem;
+    font-size: 2rem;
+    color: var(--neutral-color);
+}
+
+.hero .blog-heading .heading-color{
+    color: var(--primary-color);
+}
+
+
+
 
 

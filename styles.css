@@ -126,7 +126,7 @@ body{
 }
 
 .end{
-    margin: 0px;
+    margin-block-end: 0px;
 }
 
 
